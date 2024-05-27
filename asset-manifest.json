@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Ana-sol/homework-front-main.git/static/css/main.073c9b0a.css",
-    "main.js": "/Ana-sol/homework-front-main.git/static/js/main.28c12884.js",
-    "static/js/787.177e23c2.chunk.js": "/Ana-sol/homework-front-main.git/static/js/787.177e23c2.chunk.js",
-    "index.html": "/Ana-sol/homework-front-main.git/index.html",
-    "main.073c9b0a.css.map": "/Ana-sol/homework-front-main.git/static/css/main.073c9b0a.css.map",
-    "main.28c12884.js.map": "/Ana-sol/homework-front-main.git/static/js/main.28c12884.js.map",
-    "787.177e23c2.chunk.js.map": "/Ana-sol/homework-front-main.git/static/js/787.177e23c2.chunk.js.map"
+    "main.css": "/Ana-sol/homework-front-main/static/css/main.073c9b0a.css",
+    "main.js": "/Ana-sol/homework-front-main/static/js/main.934e0ada.js",
+    "static/js/787.177e23c2.chunk.js": "/Ana-sol/homework-front-main/static/js/787.177e23c2.chunk.js",
+    "index.html": "/Ana-sol/homework-front-main/index.html",
+    "main.073c9b0a.css.map": "/Ana-sol/homework-front-main/static/css/main.073c9b0a.css.map",
+    "main.934e0ada.js.map": "/Ana-sol/homework-front-main/static/js/main.934e0ada.js.map",
+    "787.177e23c2.chunk.js.map": "/Ana-sol/homework-front-main/static/js/787.177e23c2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.28c12884.js"
+    "static/js/main.934e0ada.js"
   ]
 }
